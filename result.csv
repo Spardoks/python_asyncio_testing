@@ -1,0 +1,88 @@
+"id","name","birth_year","eye_color","gender","hair_color","height","mass","skin_color","homeworld","films","species","starships","vehicles"
+1,"Luke Skywalker","19BBY","blue","male","blond","172","77","fair","Tatooine","A New Hope,The Empire Strikes Back,Return of the Jedi,Revenge of the Sith,The Force Awakens","Human","X-wing,Imperial shuttle","Snowspeeder,Imperial Speeder Bike"
+2,"C-3PO","112BBY","yellow","n/a","n/a","167","75","gold","Tatooine","A New Hope,The Empire Strikes Back,Return of the Jedi,The Phantom Menace,Attack of the Clones,Revenge of the Sith","Droid",NULL,NULL
+3,"Owen Lars","52BBY","blue","male","brown, grey","178","120","light","Tatooine","A New Hope,Attack of the Clones,Revenge of the Sith","Human",NULL,NULL
+4,"Beru Whitesun lars","47BBY","blue","female","brown","165","75","light","Tatooine","A New Hope,Attack of the Clones,Revenge of the Sith","Human",NULL,NULL
+5,"R5-D4","unknown","red","n/a","n/a","97","32","white, red","Tatooine","A New Hope","Droid",NULL,NULL
+6,"R2-D2","33BBY","red","n/a","n/a","96","32","white, blue","Naboo","A New Hope,The Empire Strikes Back,Return of the Jedi,The Phantom Menace,Attack of the Clones,Revenge of the Sith,The Force Awakens","Droid",NULL,NULL
+7,"Jabba Desilijic Tiure","600BBY","orange","hermaphrodite","n/a","175","1,358","green-tan, brown","Nal Hutta","A New Hope,Return of the Jedi,The Phantom Menace","Hutt",NULL,NULL
+8,"Biggs Darklighter","24BBY","brown","male","black","183","84","light","Tatooine","A New Hope","Human","X-wing",NULL
+9,"Anakin Skywalker","41.9BBY","blue","male","blond","188","84","fair","Tatooine","The Phantom Menace,Attack of the Clones,Revenge of the Sith","Human","Naboo fighter,Trade Federation cruiser,Jedi Interceptor","Zephyr-G swoop bike,XJ-6 airspeeder"
+10,"Darth Vader","41.9BBY","yellow","male","none","202","136","white","Tatooine","A New Hope,The Empire Strikes Back,Return of the Jedi,Revenge of the Sith","Human","TIE Advanced x1",NULL
+11,"Wilhuff Tarkin","64BBY","blue","male","auburn, grey","180","unknown","fair","Eriadu","A New Hope,Revenge of the Sith","Human",NULL,NULL
+12,"Wedge Antilles","21BBY","hazel","male","brown","170","77","fair","Corellia","A New Hope,The Empire Strikes Back,Return of the Jedi","Human","X-wing","Snowspeeder"
+13,"Leia Organa","19BBY","brown","female","brown","150","49","light","Alderaan","A New Hope,The Empire Strikes Back,Return of the Jedi,Revenge of the Sith,The Force Awakens","Human",NULL,"Imperial Speeder Bike"
+14,"Lobot","37BBY","blue","male","none","175","79","light","Bespin","The Empire Strikes Back","Human",NULL,NULL
+15,"Chewbacca","200BBY","blue","male","brown","228","112","unknown","Kashyyyk","A New Hope,The Empire Strikes Back,Return of the Jedi,Revenge of the Sith,The Force Awakens","Wookiee","Millennium Falcon,Imperial shuttle","AT-ST"
+16,"Jek Tono Porkins","unknown","blue","male","brown","180","110","fair","Bestine IV","A New Hope",NULL,"X-wing",NULL
+17,"Nien Nunb","unknown","black","male","none","160","68","grey","Sullust","Return of the Jedi","Sullustan","Millennium Falcon",NULL
+18,"Palpatine","82BBY","yellow","male","grey","170","75","pale","Naboo","The Empire Strikes Back,Return of the Jedi,The Phantom Menace,Attack of the Clones,Revenge of the Sith","Human",NULL,NULL
+19,"Qui-Gon Jinn","92BBY","blue","male","brown","193","89","fair","unknown","The Phantom Menace","Human",NULL,"Tribubble bongo"
+20,"Obi-Wan Kenobi","57BBY","blue-gray","male","auburn, white","182","77","fair","Stewjon","A New Hope,The Empire Strikes Back,Return of the Jedi,The Phantom Menace,Attack of the Clones,Revenge of the Sith","Human","Jedi starfighter,Trade Federation cruiser,Naboo star skiff,Jedi Interceptor,Belbullab-22 starfighter","Tribubble bongo"
+21,"Han Solo","29BBY","brown","male","brown","180","80","fair","Corellia","A New Hope,The Empire Strikes Back,Return of the Jedi,The Force Awakens","Human","Millennium Falcon,Imperial shuttle",NULL
+22,"Yoda","896BBY","brown","male","white","66","17","green","unknown","The Empire Strikes Back,Return of the Jedi,The Phantom Menace,Attack of the Clones,Revenge of the Sith","Yoda's species",NULL,NULL
+23,"Ackbar","41BBY","orange","male","none","180","83","brown mottle","Mon Cala","Return of the Jedi,The Force Awakens","Mon Calamari",NULL,NULL
+24,"Nute Gunray","unknown","red","male","none","191","90","mottled green","Cato Neimoidia","The Phantom Menace,Attack of the Clones,Revenge of the Sith","Neimodian",NULL,NULL
+25,"Sebulba","unknown","orange","male","none","112","40","grey, red","Malastare","The Phantom Menace","Dug",NULL,NULL
+26,"Finis Valorum","91BBY","blue","male","blond","170","unknown","fair","Coruscant","The Phantom Menace","Human",NULL,NULL
+27,"Quarsh Panaka","62BBY","brown","male","black","183","unknown","dark","Naboo","The Phantom Menace","Human",NULL,NULL
+28,"Boba Fett","31.5BBY","brown","male","black","183","78.2","fair","Kamino","The Empire Strikes Back,Return of the Jedi,Attack of the Clones","Human","Slave 1",NULL
+29,"Jar Jar Binks","52BBY","orange","male","none","196","66","orange","Naboo","The Phantom Menace,Attack of the Clones","Gungan",NULL,NULL
+30,"Mon Mothma","48BBY","blue","female","auburn","150","unknown","fair","Chandrila","Return of the Jedi","Human",NULL,NULL
+31,"Greedo","44BBY","black","male","n/a","173","74","green","Rodia","A New Hope","Rodian",NULL,NULL
+32,"Padmé Amidala","46BBY","brown","female","brown","185","45","light","Naboo","The Phantom Menace,Attack of the Clones,Revenge of the Sith","Human","Naboo fighter,H-type Nubian yacht,Naboo star skiff",NULL
+33,"Roos Tarpals","unknown","orange","male","none","224","82","grey","Naboo","The Phantom Menace","Gungan",NULL,NULL
+34,"Arvel Crynyd","unknown","brown","male","brown","unknown","unknown","fair","unknown","Return of the Jedi","Human","A-wing",NULL
+35,"Mace Windu","72BBY","brown","male","none","188","84","dark","Haruun Kal","The Phantom Menace,Attack of the Clones,Revenge of the Sith","Human",NULL,NULL
+36,"IG-88","15BBY","red","none","none","200","140","metal","unknown","The Empire Strikes Back","Droid",NULL,NULL
+37,"Shmi Skywalker","72BBY","brown","female","black","163","unknown","fair","Tatooine","The Phantom Menace,Attack of the Clones","Human",NULL,NULL
+38,"Ayla Secura","48BBY","hazel","female","none","178","55","blue","Ryloth","The Phantom Menace,Attack of the Clones,Revenge of the Sith","Twi'lek",NULL,NULL
+39,"Rugor Nass","unknown","orange","male","none","206","unknown","green","Naboo","The Phantom Menace","Gungan",NULL,NULL
+40,"Saesee Tiin","unknown","orange","male","none","188","unknown","pale","Iktotch","The Phantom Menace,Revenge of the Sith","Iktotchi",NULL,NULL
+41,"Wicket Systri Warrick","8BBY","brown","male","brown","88","20","brown","Endor","Return of the Jedi","Ewok",NULL,NULL
+42,"Yarael Poof","unknown","yellow","male","none","264","unknown","white","Quermia","The Phantom Menace","Quermian",NULL,NULL
+43,"Ratts Tyerel","unknown","unknown","male","none","79","15","grey, blue","Aleen Minor","The Phantom Menace","Aleena",NULL,NULL
+44,"Bossk","53BBY","red","male","none","190","113","green","Trandosha","The Empire Strikes Back","Trandoshan",NULL,NULL
+45,"Ki-Adi-Mundi","92BBY","yellow","male","white","198","82","pale","Cerea","The Phantom Menace,Attack of the Clones,Revenge of the Sith","Cerean",NULL,NULL
+46,"Plo Koon","22BBY","black","male","none","188","80","orange","Dorin","The Phantom Menace,Attack of the Clones,Revenge of the Sith","Kel Dor","Jedi starfighter",NULL
+47,"Cordé","unknown","brown","female","brown","157","unknown","light","Naboo","Attack of the Clones",NULL,NULL,NULL
+48,"Kit Fisto","unknown","black","male","none","196","87","green","Glee Anselm","The Phantom Menace,Attack of the Clones,Revenge of the Sith","Nautolan",NULL,NULL
+49,"Ric Olié","unknown","blue","male","brown","183","unknown","fair","Naboo","The Phantom Menace","Human","Naboo Royal Starship",NULL
+50,"Dormé","unknown","brown","female","brown","165","unknown","light","Naboo","Attack of the Clones","Human",NULL,NULL
+51,"Cliegg Lars","82BBY","blue","male","brown","183","unknown","fair","Tatooine","Attack of the Clones","Human",NULL,NULL
+52,"Dud Bolt","unknown","yellow","male","none","94","45","blue, grey","Vulpter","The Phantom Menace","Vulptereen",NULL,NULL
+53,"Mas Amedda","unknown","blue","male","none","196","unknown","blue","Champala","The Phantom Menace,Attack of the Clones","Chagrian",NULL,NULL
+54,"Eeth Koth","unknown","brown","male","black","171","unknown","brown","Iridonia","The Phantom Menace,Revenge of the Sith","Zabrak",NULL,NULL
+55,"Darth Maul","54BBY","yellow","male","none","175","80","red","Dathomir","The Phantom Menace","Zabrak","Scimitar","Sith speeder"
+56,"Dexter Jettster","unknown","yellow","male","none","198","102","brown","Ojom","Attack of the Clones","Besalisk",NULL,NULL
+57,"Poggle the Lesser","unknown","yellow","male","none","183","80","green","Geonosis","Attack of the Clones,Revenge of the Sith","Geonosian",NULL,NULL
+58,"Adi Gallia","unknown","blue","female","none","184","50","dark","Coruscant","The Phantom Menace,Revenge of the Sith","Tholothian",NULL,NULL
+59,"Gregar Typho","unknown","brown","male","black","185","85","dark","Naboo","Attack of the Clones",NULL,"Naboo fighter",NULL
+60,"Dooku","102BBY","brown","male","white","193","80","fair","Serenno","Attack of the Clones,Revenge of the Sith","Human",NULL,"Flitknot speeder"
+61,"Lando Calrissian","31BBY","brown","male","black","177","79","dark","Socorro","The Empire Strikes Back,Return of the Jedi","Human","Millennium Falcon",NULL
+62,"Lama Su","unknown","black","male","none","229","88","grey","Kamino","Attack of the Clones","Kaminoan",NULL,NULL
+63,"Watto","unknown","yellow","male","black","137","unknown","blue, grey","Toydaria","The Phantom Menace,Attack of the Clones","Toydarian",NULL,NULL
+64,"Wat Tambor","unknown","unknown","male","none","193","48","green, grey","Skako","Attack of the Clones","Skakoan",NULL,NULL
+65,"Taun We","unknown","black","female","none","213","unknown","grey","Kamino","Attack of the Clones","Kaminoan",NULL,NULL
+66,"Bib Fortuna","unknown","pink","male","none","180","unknown","pale","Ryloth","Return of the Jedi","Twi'lek",NULL,NULL
+67,"San Hill","unknown","gold","male","none","191","unknown","grey","Muunilinst","Attack of the Clones","Muun",NULL,NULL
+68,"Bail Prestor Organa","67BBY","brown","male","black","191","unknown","tan","Alderaan","Attack of the Clones,Revenge of the Sith","Human",NULL,NULL
+69,"Jocasta Nu","unknown","blue","female","white","167","unknown","fair","Coruscant","Attack of the Clones","Human",NULL,NULL
+70,"R4-P17","unknown","red, blue","female","none","96","unknown","silver, red","unknown","Attack of the Clones,Revenge of the Sith",NULL,NULL,NULL
+71,"Shaak Ti","unknown","black","female","none","178","57","red, blue, white","Shili","Attack of the Clones,Revenge of the Sith","Togruta",NULL,NULL
+72,"Raymus Antilles","unknown","brown","male","brown","188","79","light","Alderaan","A New Hope,Revenge of the Sith","Human",NULL,NULL
+73,"Luminara Unduli","58BBY","blue","female","black","170","56.2","yellow","Mirial","Attack of the Clones,Revenge of the Sith","Mirialan",NULL,NULL
+74,"Gasgano","unknown","black","male","none","122","unknown","white, blue","Troiken","The Phantom Menace","Xexto",NULL,NULL
+75,"Sly Moore","unknown","white","female","none","178","48","pale","Umbara","Attack of the Clones,Revenge of the Sith",NULL,NULL,NULL
+76,"Jango Fett","66BBY","brown","male","black","183","79","tan","Concord Dawn","Attack of the Clones","Human",NULL,NULL
+77,"Barriss Offee","40BBY","blue","female","black","166","50","yellow","Mirial","Attack of the Clones","Mirialan",NULL,NULL
+78,"Tion Medon","unknown","black","male","none","206","80","grey","Utapau","Revenge of the Sith","Pau'an",NULL,NULL
+79,"Poe Dameron","unknown","brown","male","brown","unknown","unknown","light","unknown","The Force Awakens","Human","X-wing",NULL
+80,"BB8","unknown","black","none","none","none","unknown","none","unknown","The Force Awakens","Droid",NULL,NULL
+81,"Finn","unknown","dark","male","black","unknown","unknown","dark","unknown","The Force Awakens","Human",NULL,NULL
+82,"Ben Quadinaros","unknown","orange","male","none","163","65","grey, green, yellow","Tund","The Phantom Menace","Toong",NULL,NULL
+83,"Captain Phasma","unknown","unknown","female","none","none","unknown","none","unknown","The Force Awakens","Human",NULL,NULL
+84,"Rey","unknown","hazel","female","brown","unknown","unknown","light","unknown","The Force Awakens","Human",NULL,NULL
+85,"Zam Wesell","unknown","yellow","female","blonde","168","55","fair, green, yellow","Zolan","Attack of the Clones","Clawdite",NULL,"Koro-2 Exodrive airspeeder"
+86,"Grievous","unknown","green, yellow","male","none","216","159","brown, white","Kalee","Revenge of the Sith","Kaleesh","Belbullab-22 starfighter","Tsmeu-6 personal wheel bike"
+87,"Tarfful","unknown","blue","male","brown","234","136","brown","Kashyyyk","Revenge of the Sith","Wookiee",NULL,NULL
